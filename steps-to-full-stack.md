@@ -90,7 +90,7 @@ sequelize.sync({ force : false }).then(() => {
     });
 });
 ```
-- make sure to check that your server still works by testing node.server.js 
+- make sure to check that your server still works by testing node server.js 
 - when you see "Executing (default): SELECT 1+1 AS result" this means that your sequelize connection is working as it should and you are connected to the database 
 - now is a good time to push to github 
 
