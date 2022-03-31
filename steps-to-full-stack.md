@@ -3,6 +3,8 @@
 ## Description 
 These are my notes on how to create a full stack web application. We will be using a SQL database, RESTful APIs with Express, and Handlebars for the front end. These steps could be modified for React for a more modern UI. These steps are meant for beginners. If you have any questions, please reach out to me at stfajardo@gmail.com. Feel free to check out my work at [stephfajardo.com](https://www.stephfajardo.com).
 
+# STEPS
+
 ## 1. Create your repo in Github 
 - make sure to add a readme, license, and gitignore 
 
